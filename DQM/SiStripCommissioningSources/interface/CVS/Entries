@@ -1,0 +1,22 @@
+/ApvTimingTask.h/1.8/Thu Mar  6 13:29:19 2008//TCMSSW_6_1_0_pre1
+/Averages.h/1.2/Thu Oct 19 08:29:48 2006//TCMSSW_6_1_0_pre1
+/CalibrationScanTask.h/1.5/Thu Mar  6 18:16:07 2008//TCMSSW_6_1_0_pre1
+/CalibrationTask.h/1.4/Thu Mar  6 13:29:19 2008//TCMSSW_6_1_0_pre1
+/CommissioningTask.h/1.25/Wed Oct 21 17:01:42 2009//TCMSSW_6_1_0_pre1
+/DaqScopeModeTask.h/1.2/Thu Mar  6 13:29:19 2008//TCMSSW_6_1_0_pre1
+/FastFedCablingTask.h/1.2/Thu Mar  6 13:29:19 2008//TCMSSW_6_1_0_pre1
+/FedCablingTask.h/1.7/Thu Mar  6 13:29:19 2008//TCMSSW_6_1_0_pre1
+/FedTimingTask.h/1.3/Thu Mar  6 13:29:19 2008//TCMSSW_6_1_0_pre1
+/FineDelayTask.h/1.8/Fri Jul 31 10:03:31 2009//TCMSSW_6_1_0_pre1
+/LatencyTask.h/1.7/Sat Apr  4 11:11:23 2009//TCMSSW_6_1_0_pre1
+/NoiseTask.h/1.2/Mon Jun  2 09:48:02 2008//TCMSSW_6_1_0_pre1
+/OptoScanTask.h/1.7/Mon Jun  1 14:44:53 2009//TCMSSW_6_1_0_pre1
+/PedestalsTask.h/1.9/Mon Mar 17 17:37:39 2008//TCMSSW_6_1_0_pre1
+/PedsFullNoiseTask.h/1.7/Mon Apr 12 17:15:30 2010//TCMSSW_6_1_0_pre1
+/PedsOnlyTask.h/1.2/Mon Jun  2 09:48:02 2008//TCMSSW_6_1_0_pre1
+/SiStripCommissioningBasicPrescaler.h/1.3/Sat Feb 20 20:58:57 2010//TCMSSW_6_1_0_pre1
+/SiStripCommissioningRunTypeFilter.h/1.4/Sat Feb 20 20:58:58 2010//TCMSSW_6_1_0_pre1
+/SiStripCommissioningSeedFilter.h/1.3/Sat Feb 20 20:58:59 2010//TCMSSW_6_1_0_pre1
+/SiStripCommissioningSource.h/1.27/Mon Jul 19 22:17:37 2010//TCMSSW_6_1_0_pre1
+/VpspScanTask.h/1.4/Thu Mar  6 13:29:19 2008//TCMSSW_6_1_0_pre1
+D
